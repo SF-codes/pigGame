@@ -2,10 +2,10 @@
 
 Pig game! Classic dice game. Featuring clean code, DOM manipulation, overlays, dice randomization etc.
 
-![Screenshot 2022-01-21 at 15-37-29 Pig Game](https://user-images.githubusercontent.com/82302032/150598053-aa6f3025-42ef-413f-a849-ee575ebf2734.png)
-
 ### Links
 Live Site URL: https://sf-codes.github.io/pigGame/
+
+![Screenshot 2022-01-21 at 15-37-29 Pig Game](https://user-images.githubusercontent.com/82302032/150598053-aa6f3025-42ef-413f-a849-ee575ebf2734.png)
 
 
 ### Built with
